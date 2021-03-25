@@ -1,0 +1,2 @@
+# HTML-different-types-of-headings-H1-H5-for-example
+In this i basically just show that there are different headings and sizes depending on the heading you choose, so h1 is the largest
